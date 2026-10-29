@@ -31,10 +31,11 @@ This account (**NixPokeFun**) is now my main one. Even if **flippedgannet** gets
 - OS: dual boot, Windows 11 + Debian 13 netinst (without GUI)
 
 **🍊 Single-board computers**
-- 2× Orange Pi PC: both of them work with my **pwnagotchi 32-sb** port. One uses an RT3070, the other a VNT9271 (AR9271).
 - 1× Banana Pi Zero
 - 1× Raspberry Pi 3B+
-- 1× Raspberry Pi Zero WH (the base for my main project)
+- 1× Raspberry Pi Zero WH (the main base for my **pwnagotchi32-sb** project)
+- 2× Orange Pi PC:
+  - both of them work with my pwnagotchi32-sb port. One uses an RT3070, the other a VNT9271 (AR9271)
 
 **🦊 Luckfox**
 - 1× Luckfox Lyra Zero W
