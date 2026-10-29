@@ -68,4 +68,5 @@ This account (**NixPokeFun**) is now my main one. Even if **flippedgannet** gets
 ### 📫 Links
 
 - Old account: [flippedgannet](https://github.com/flippedgannet) (flagged)
+- Reddit: [flippedgannet](https://www.reddit.com/user/flippedgannet/)
 - Main project: [pwnagotchi32-sb](https://github.com/NixPokeFun/pwnagotchi32-sb)
