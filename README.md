@@ -28,7 +28,7 @@ This account (**NixPokeFun**) is now my main one. Even if **flippedgannet** gets
 - CPU: Intel Core i5-11400F
 - GPU: Radeon RX 7650 GRE (Gigabyte Gaming OC)
 - Case: DeepCool CH270
-- OS: dual boot, Debian + Windows
+- OS: dual boot, Windows 11 + Debian 13 netinst (without GUI)
 
 **🍊 Single-board computers**
 - 2× Orange Pi PC: both of them work with my **pwnagotchi 32-sb** port. One uses an RT3070, the other a VNT9271 (AR9271).
