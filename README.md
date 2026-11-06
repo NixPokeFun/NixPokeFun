@@ -20,7 +20,7 @@ This account (**NixPokeFun**) is now my main one. Even if **flippedgannet** gets
 
 - CPU: Intel Core i5-11400F
 - GPU: Radeon RX 7650 GRE (Gigabyte Gaming OC)
-- RAM: ddr4 24gb (16+8) 3200mhz apacer cl16
+- RAM: ddr4 24gb (16+8-Flex Mode) 3200mhz apacer cl16
 - Case: DeepCool CH270
 - OS: dual boot, Windows 11 + Debian 13 netinst (without GUI)
 
