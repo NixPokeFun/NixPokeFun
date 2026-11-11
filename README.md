@@ -1,28 +1,14 @@
 ## Hi there 👋
 
-### 🚀 Main project: [pwnagotchi32-sb](https://github.com/NixPokeFun/pwnagotchi32-sb)
+### 🏴 About the account situation
 
-A Pwnagotchi port/fork for low-power hardware. It was previously known as **pwnagotchi-ai32** and lived on my old account, **flippedgannet**. It got **17 stars in 3 days** before GitHub flagged that account on day 3.
-
-**🏴 About the account situation**
-
-My original account, **flippedgannet**, was flagged by GitHub. As a result:
+A Pwnagotchi port/fork for low-power hardware. It was previously known as **pwnagotchi-ai32** and lived on my old account, **flippedgannet**. It got **17 stars in 3 days** before GitHub flagged that account on day 3. As a result:
 
    - I couldn't push large updates through git properly
    - my profile was hidden from other users
    - support never replied to my messages
 
 This account (**NixPokeFun**) is now my main one. Even if **flippedgannet** gets unflagged, this account stays primary, and the repositories on the old account will be moved to archive mode.
-
----
-
-### 💻 Main PC
-
-- CPU: Intel Core i5-11400F
-- GPU: Radeon RX 7650 GRE (Gigabyte Gaming OC)
-- RAM: ddr4 24gb (16+8-Flex Mode) 3200mhz apacer cl16
-- Case: DeepCool CH270
-- OS: dual boot, Windows 11 + Debian 13 netinst (without GUI)
 
 ---
 
