@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🏴 @NixPokeFun is now my primary account. All active development and future updates happen here. Repositories on @flippedgannet are kept in read- only archive mode for reference.
+🏴 @NixPokeFun is now my primary account. All active development and future updates happen here. Repositories on @flippedgannet are kept in read-only archive mode for reference.
 
 ---
 ### 🧰 Skills
