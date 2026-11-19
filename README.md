@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🏴 This account **@NixPokeFun** is now my main one. Even if **@flippedgannet** gets unflagged, this account stays primary, and the repositories on the old account will be moved to archive mode.
+🏴 @NixPokeFun is now my primary account. All active development and future updates happen here. Repositories on @flippedgannet are kept in read- only archive mode for reference.
 
 ---
 ### 🧰 Skills
